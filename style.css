@@ -1,1 +1,89 @@
 
+.canvas{
+    /* background-color: #fff; */
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: #212121;
+}
+
+#h1{
+    background-color: black;
+    color: whitesmoke;
+    margin-left: 30%;
+    display: inline;
+}
+
+.mainDiv{
+    margin-left: 25%;
+    margin-top: 5%;
+    display: flex;
+}
+
+.box{
+    margin-top: 20%;
+    border-color: blue;
+    width: 30px;
+    height: 30px;
+    transition: transform .2s;
+    border: 2px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+   
+}
+
+.box:hover {
+    transform: scale(1.5); 
+  }
+
+#orange{
+    background-color: orange;
+   
+}
+#black{
+    background-color: black;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+}
+#brown{
+    background-color: brown;
+ 
+}
+#green{
+    background-color: green;
+
+}
+#violet{
+    background-color: violet;
+
+}
+#purple{
+    background-color: purple;
+
+}
+
+
+.online{
+    margin-left:48%;
+    margin-top: 9%;
+}
+
+.h3{
+    background-color: black;
+    color: #f5f5f5;
+   display:inline-flex;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+
